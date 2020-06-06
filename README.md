@@ -9,7 +9,7 @@ There are following functions.
 - Minimize own command prompt window.
 - Kill explorer.exe and restart it when the app closed.
 - Generate "output_log.txt" into the "APP_Data" dir.
-- Backup old "output_log.txt" when app start (max 10 files).
+- Backup old "output_log.txt" when the app start (max 10 files).
 
 # How to use
 
